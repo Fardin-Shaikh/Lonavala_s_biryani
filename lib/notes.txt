@@ -1,0 +1,1 @@
+check the flow of the app by uing the routes and repair the ui ans alos understand the bloc to run the perticular class <class_name>.bulder 
